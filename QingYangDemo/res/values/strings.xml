@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">清扬</string>
+    <string name="main_activity_disk">电脑硬盘</string>
+    <string name="download_activity">下载详情</string>
+    <string name="upload_activity">上传详情</string>
+    <string name="power_activity">控制PC关机</string>
+    <string name="mouse_activity">控制PC鼠标</string>
+    <string name="main_menu_login">用户登录</string>
+    <string name="main_menu_logout">注销登录</string>
+    <string name="login_dialog_account">账号:</string>
+    <string name="login_dialog_account_hint">输入账号/邮箱</string>
+    <string name="login_dialog_password">密码:</string>
+    <string name="login_dialog_password_hint">输入密码</string>
+    <string name="login_dialog_reg">注册帐号</string>
+    <string name="login_dialog_login">登  录</string>
+    <string name="login_dialog_rememberPW">记住密码:</string>
+    <string name="login_dialog_autoLogin">自动登录:</string>
+    <string name="login_dialog_rememberMe">记住我的登录信息</string>
+    <string name="setting_head_title">系统设置</string>
+    <string name="feedback_activity_fb">意见反馈</string>
+    <string name="feedback_activity_content">欢迎您提出宝贵的意见和建议</string>
+    <string name="feedback_activity_hint">输入您的意见和建议</string>
+    <string name="feedback_activity_btn_submit">提交反馈</string>
+    <string name="ipset_activity_title">设置电脑IP地址</string>
+    <string name="ipset_activity_content">请设置电脑和手机在同一网段上</string>
+    <string name="ipset_activity_hint">设置您电脑上的IP地址</string>
+    <string name="ipset_activity_btn_submit">确定</string>
+    <string name="upload_activity_btn_start">继续上传</string>
+    <string name="upload_activity_btn_stop">暂停上传</string>
+
+</resources>
